@@ -1,0 +1,9 @@
+Środowisko programistyczne: Microsoft Visual Studio [wersja]
+
+Technologia: .NET MAUI
+
+Języki: C#, XAML
+
+Emulowane urządzenie: [nazwa urządzenia z emulatora]
+
+System emulatora: Android [wersja / poziom API]
